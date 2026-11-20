@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a 2-bit adder that takes 2 2 bit numbers and a carry in, and outputs another number as carry out, s1, and s2.
 
 ## How to test
 
-Explain how to use your project
+Flip the input switches and see the output led light up.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switch and leds
